@@ -1,4 +1,4 @@
-## Izvedot number guessing spēli ar Python programmēšanas valodu
+## Izvedot number guessing spēli ar Pytho programmēšanas valodu
 
 ### Dokumenta saturs
 
